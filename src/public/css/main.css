@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+h1, h2, h3,th{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+}
+p,a,h4,h5,h6,td{
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+}
+
+body {
+	background: #afafaf;
+	justify-content:center;
+}
+
+.formulario {
+	background: rgba(0, 0, 0, 0.1);
+	padding: 10px;
+	border-radius: 20px;
+	box-shadow: 0 0 10px rgba(0, -0, -0, -0.568);
+	justify-content: center;
+    height: 350px; /* Altura deseada */
+    text-align: center; 
+}
+
+.letrapequeña{
+	font-size: 13px;
+}
+
+
+
+
+.card{
+	
+	margin: auto;
+	width: 230px; 
+	padding: 10px;
+	font-family: 'Arial', sans-serif; 
+	color: #814444; 
+	justify-content:center;
+
+}
